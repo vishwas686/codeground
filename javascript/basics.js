@@ -98,14 +98,15 @@
 //                  contact: 9842821678
 //                  }
 // 12.property and methods =>
-//             # PROPERTY is like keys (name of variable)
+//     # PROPERTY is like keys (name of variable)
 //                var a = {                           properties
 //                  age: 24,                            (age)
 //                  name:"sudip",                       (name)
 //                  email:"sudipsingh78@gmail.com",     (email)
 //                  contact: 9842821678                 (contact)
 //                  }
-//             # METHOD are like values (function in a property or object).
+//     # METHOD are like values (if value of aproperty in a 
+//                                 object is function the it is method).
 //                 var a = {
 //                  age: 24,                                 Method
 //                  name:"sudip",
@@ -113,3 +114,18 @@
 //                  contact: 9842821678
 //                  parents: function(){}                   (parents)
 //                  }
+
+// 13.updating object properties 
+//                 var a = {
+//                  age: 24,                              
+//                  name:"sudip",
+//                  email:"sudipsingh78@gmail.com",
+//                  contact: 9842821678
+//                  parents: function(){}                  
+//                  }
+//                 a.name ="vishwas"
+//                 output:    age: 24,                              
+//                            name:"vishwas"
+//                            email:"sudipsingh78@gmail.com"
+//                            contact: 9842821678
+//                            parents:
