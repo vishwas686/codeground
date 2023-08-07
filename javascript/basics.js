@@ -52,3 +52,11 @@
 // 7.functions => a particular code which you want to use again and again
 //                so then you can define it as a functions and call it 
 //                wherever you want to use it.
+// 
+//                function hello(){
+//                       console.log("hello world");
+//                }
+//                output:   
+//                
+//                hello();
+//                output: hello world
