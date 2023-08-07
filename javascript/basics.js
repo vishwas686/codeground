@@ -33,5 +33,15 @@
 //   1.if else =>
 //   2.else if =>
 
-// 6.loops
-//   for and while
+// 6.loops =>  1.for  2.while
+//   
+//   1.for  
+//       for loop syntax: for(var i = 0; i<11; i++){
+//                            console.log(i);
+//                        }
+//       output : 0 to 10
+
+//   2.while
+//      while loop syntax: while(){
+//
+//                         }
