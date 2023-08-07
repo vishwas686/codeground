@@ -60,3 +60,56 @@
 //                
 //                hello();
 //                output: hello world
+
+// 8.arguments and parameters
+//       arguments => the real value used here in a function hello(12,13,14);
+//       parameters => variable for the values in the function.
+
+// 9.arrays = give you freedom to store multiple data in a variable.(group of values)
+//   example=>  var arr =[1,2,3,4];
+//                arr[0];
+//                output will be: 1
+
+// 10.push pop shift unshift =>
+//    
+//   var arr = [1,2,3,4,5,6,7];
+//   arr.push(8);  adds 8 to the back of array
+//                  output:[1,2,3,4,5,6,7,8]
+//   var arr = [1,2,3,4,5,6,7];
+//   arr.pop();  removes the last value from array
+//               outout:[1,2,3,4,5,6]
+//   var arr = [1,2,3,4,5,6,7];
+//   arr.unshift(0);   adds a value at front of array
+//                      output:[0,1,2,3,4,5,6,7]
+//   var arr = [1,2,3,4,5,6,7];
+//   arr.shift();      removes first element form an array
+//                     output:[2,3,4,5,6,7]
+//   var arr = [1,2,3,4,5,6,7];
+//   arr.splice(2,1)    removes value from index pov
+
+// 11.objects => holding details of a individual in a key value in pair
+//    1.) blank obj
+//                  var a = {};
+//    2.) filled obj 
+//                  var a = {
+//                  age: 24,
+//                  name:"sudip",
+//                  email:"sudipsingh78@gmail.com",
+//                  contact: 9842821678
+//                  }
+// 12.property and methods =>
+//             # PROPERTY is like keys (name of variable)
+//                var a = {                           properties
+//                  age: 24,                            (age)
+//                  name:"sudip",                       (name)
+//                  email:"sudipsingh78@gmail.com",     (email)
+//                  contact: 9842821678                 (contact)
+//                  }
+//             # METHOD are like values (function in a property or object).
+//                 var a = {
+//                  age: 24,                                 Method
+//                  name:"sudip",
+//                  email:"sudipsingh78@gmail.com",
+//                  contact: 9842821678
+//                  parents: function(){}                   (parents)
+//                  }
