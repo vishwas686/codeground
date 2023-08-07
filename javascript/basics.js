@@ -42,6 +42,9 @@
 //       output : 0 to 10
 
 //   2.while
-//      while loop syntax: while(){
+//      while loop syntax: 
+//                         var a =12
 //
+//                         while(a<20){
+//                              a++; console.log(a)
 //                         }
